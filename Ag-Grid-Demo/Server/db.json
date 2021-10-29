@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Raj123",
+      "email": "raj123@gmail.com",
+      "phone": 9966315674,
+      "dob": "20/01/1989",
+      "gender": "1"
+    },
+    {
+      "name": "venkat",
+      "email": "venkateswarrrr@gmail.com",
+      "phone": "996316561",
+      "dob": "10/06/1990",
+      "id": 2
+    },
+    {
+      "name": "stephen",
+      "email": "stpehen@gmail.com",
+      "phone": "894461489",
+      "dob": "10/1/2020",
+      "id": 3
+    },
+    {
+      "name": "Mike",
+      "email": "Mike@gmail.com",
+      "phone": "996316561",
+      "dob": "10/06/1990",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "894461489",
+      "dob": "10/1/2020",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "chris",
+      "email": "chris@gmail.com",
+      "phone": "9966315674",
+      "dob": "20/01/1987"
+    },
+    {
+      "name": "oswin",
+      "email": "oswin@gmail.com",
+      "phone": "996316561",
+      "dob": "10/06/1990",
+      "id": 7
+    },
+    {
+      "name": "test123",
+      "email": "test123@gmail.com",
+      "phone": "894461489",
+      "dob": "10/1/2020",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "zoya",
+      "email": "zoya@gmail.com",
+      "phone": 9966315674,
+      "dob": "20/01/1987"
+    },
+    {
+      "name": "nik",
+      "email": "nik@gmail.com",
+      "phone": "996316561",
+      "dob": "10/06/1990",
+      "id": 10
+    },
+    {
+      "name": "ravina",
+      "email": "ravina@gmail.com",
+      "phone": "894461489",
+      "dob": "10/1/2020",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "tom",
+      "email": "tom@gmail.com",
+      "phone": 9966315674,
+      "dob": "20/01/1987"
+    },
+    {
+      "name": "edwin",
+      "email": "edwin@gmail.com",
+      "phone": "996316561",
+      "dob": "10/06/1990",
+      "id": 13
+    },
+    {
+      "name": "lyka",
+      "email": "lyka@gmail.com",
+      "phone": "894461489",
+      "dob": "10/1/2020",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "name": "charle",
+      "email": "charle@gmail.com",
+      "phone": 9966315674,
+      "dob": "20/01/1987"
+    },
+    {
+      "name": "venkat",
+      "email": "venkateswarrrr@gmail.com",
+      "phone": "996316561",
+      "dob": "10/06/1990",
+      "id": 16
+    },
+    {
+      "name": "stephen",
+      "email": "stpehen@gmail.com",
+      "phone": "894461489",
+      "dob": "10/1/2020",
+      "id": 17
+    },
+    {
+      "id": 18,
+      "name": "Raj123",
+      "email": "raj123@gmail.com",
+      "phone": 9966315674,
+      "dob": "20/01/1987"
+    },
+    {
+      "name": "venkat",
+      "email": "venkateswarrrr@gmail.com",
+      "phone": "996316561",
+      "dob": "10/06/1990",
+      "id": 19
+    },
+    {
+      "name": "stephen",
+      "email": "stpehen@gmail.com",
+      "phone": "894461489",
+      "dob": "10/1/2020",
+      "id": 20
+    },
+    {
+      "name": "stephen ravindra",
+      "email": "ravindra@gmail.com",
+      "phone": "996631674",
+      "dob": "10/1/2020",
+      "id": 21
+    },
+    {
+      "name": "test1234",
+      "email": "test1234@gmail.com",
+      "phone": "7874513211",
+      "dob": "1/1/2020",
+      "id": 22
+    },
+    {
+      "id": 23
+    }
+  ]
+}
